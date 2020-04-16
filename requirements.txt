@@ -1,0 +1,6 @@
+selenium
+pandas
+json
+smtplib
+ssl
+email

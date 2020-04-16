@@ -1,0 +1,7 @@
+{
+  "EMAIL_SRC": <src email from which notifications will be sent>,
+  "EMAIL_TARGETS": [<list of recipient emails>],
+  "GMAIL_TOKEN": <16 char app password>,
+  "USERNAME": <store login>,
+  "PASSWORD": <store password>
+}
